@@ -6,16 +6,17 @@ h2 {
   color: chocolate;
 }
 button {
-  color: black;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: 200;
-  padding: 5px 5px;
-  font-size: 15px;
-  text-align: center;
+  font-family: inherit;
+  border: none;
+  border-radius: 6px;
+  font-size: 17px;
+  line-height: 48px;
+  padding: 0 16px;
   display: inline-block;
-  border-radius: 13px;
-  background-color: lightskyblue;
-  border-color: lightskyblue;
+  box-sizing: content-box;
+  font-weight: bold;
+  color: #fff;
+  background-color: #42b72a;
 }
 p {
   color: darkblue;
