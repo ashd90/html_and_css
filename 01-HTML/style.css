@@ -17,6 +17,10 @@ button {
   font-weight: bold;
   color: #fff;
   background-color: #42b72a;
+  position: relative;
+  text-align: center;
+  text-shadow: none;
+  vertical-align: middle;
 }
 p {
   color: darkblue;
