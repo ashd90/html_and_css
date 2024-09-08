@@ -21,6 +21,7 @@ button {
   text-align: center;
   text-shadow: none;
   vertical-align: middle;
+  text-decoration: none;
 }
 p {
   color: darkblue;
