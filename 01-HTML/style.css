@@ -2,8 +2,21 @@ h1 {
   color: cadetblue;
   background-color: whitesmoke;
 }
+h2 {
+  color: chocolate;
+}
 button {
   background-color: lightcyan;
   border-radius: 12%;
   border-color: lightcyan;
+}
+p {
+  color: darkblue;
+}
+li {
+  color: darkcyan;
+}
+
+a {
+  color: darkviolet;
 }
