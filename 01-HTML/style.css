@@ -9,7 +9,11 @@ button {
   color: black;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 200;
-  font-size: medium;
+  padding: 5px 5px;
+  font-size: 15px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 13px;
   background-color: lightskyblue;
   border-color: lightskyblue;
 }
