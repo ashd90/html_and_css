@@ -2,3 +2,8 @@ h1 {
   color: cadetblue;
   background-color: whitesmoke;
 }
+button {
+  background-color: lightcyan;
+  border-radius: 12%;
+  border-color: lightcyan;
+}
