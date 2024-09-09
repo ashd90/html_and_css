@@ -2,14 +2,10 @@ h1 {
   color: cadetblue;
   background-color: #caddbb;
   font-family: inherit;
-  text-shadow: none;
-  text-decoration: none;
 }
 h2 {
   color: chocolate;
   font-family: inherit;
-  text-shadow: none;
-  text-decoration: none;
 }
 button {
   font-family: inherit;
@@ -35,8 +31,6 @@ p {
 li {
   color: darkcyan;
   font-family: inherit;
-  text-shadow: none;
-  text-decoration: none;
 }
 
 a {
