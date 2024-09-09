@@ -1,10 +1,11 @@
 h1 {
   color: cadetblue;
-  background-color: #d5eeed;
+  background-color: #f4f8f8;
   font-family: inherit;
+  display: inline-block;
 }
 h2 {
-  color: chocolate;
+  color: rgb(210, 30, 165);
   font-family: inherit;
 }
 button {
