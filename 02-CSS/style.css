@@ -1,0 +1,39 @@
+h1 {
+  color: rgb(150, 226, 98);
+  background-color: #f4f8f8;
+  font-family: inherit;
+  display: inline-block;
+}
+h2 {
+  color: rgb(210, 30, 165);
+  font-family: inherit;
+}
+button {
+  font-family: inherit;
+  border: none;
+  border-radius: 6px;
+  font-size: 17px;
+  line-height: 48px;
+  padding: 0 16px;
+  display: inline-block;
+  box-sizing: content-box;
+  font-weight: bold;
+  color: #fff;
+  background-color: #42b72a;
+  position: relative;
+  text-align: center;
+  text-shadow: none;
+  vertical-align: middle;
+  text-decoration: none;
+}
+p {
+  color: darkblue;
+}
+li {
+  color: darkcyan;
+  font-family: inherit;
+}
+
+a {
+  color: darkviolet;
+}
