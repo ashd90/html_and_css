@@ -1,12 +1,21 @@
-h1 {
-	color: rgb(150, 226, 98);
-	background-color: #f4f8f8;
-	font-family: inherit;
-	display: inline-block;
+.house {
+	color: white;
+	background-color: black;
+	position: relative;
+	box-sizing: border-box;
 }
-h2 {
-	color: rgb(210, 30, 165);
-	font-family: inherit;
+
+.cart {
+	color: white;
+	background-color: #42b72a;
+	position: relative;
+	box-sizing: border-box;
+}
+.user {
+	color: white;
+	background-color: orangered;
+	position: relative;
+	box-sizing: border-box;
 }
 
 div {
