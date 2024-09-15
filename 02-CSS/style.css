@@ -28,8 +28,10 @@
 #rental {
 	background-color: #f66b0c;
 }
-div {
-	background-color: lightsalmon;
+
+h2,
+p {
+	color: white;
 }
 button {
 	font-family: inherit;
