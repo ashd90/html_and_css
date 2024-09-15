@@ -1,23 +1,33 @@
 .house {
 	color: white;
-	background-color: black;
 	position: relative;
 	box-sizing: border-box;
+	border-radius: 8px;
 }
 
 .cart {
 	color: white;
-	background-color: #42b72a;
 	position: relative;
 	box-sizing: border-box;
+	border-radius: 8px;
 }
 .user {
 	color: white;
-	background-color: orangered;
 	position: relative;
 	box-sizing: border-box;
+	border-radius: 8px;
 }
 
+#total {
+	background-color: #142a3c;
+}
+
+#sale {
+	background-color: #215475;
+}
+#rental {
+	background-color: #f66b0c;
+}
 div {
 	background-color: lightsalmon;
 }
@@ -38,15 +48,4 @@ button {
 	text-shadow: none;
 	vertical-align: middle;
 	text-decoration: none;
-}
-p {
-	color: darkblue;
-}
-li {
-	color: darkcyan;
-	font-family: inherit;
-}
-
-a {
-	color: darkviolet;
 }
