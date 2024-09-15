@@ -1,12 +1,19 @@
 .card {
 	color: white;
-	font-family: inherit;
-	font-weight: bold;
+	width: 350px;
+	font-size: 28px;
 	position: relative;
 	box-sizing: border-box;
 	border-radius: 8px;
 }
 
+.card h2 {
+	font-size: 1.14em;
+}
+
+.card p {
+	font-size: 0.6em;
+}
 #total {
 	background-color: #142a3c;
 }
