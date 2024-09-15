@@ -5,6 +5,7 @@
 	position: relative;
 	box-sizing: border-box;
 	border-radius: 8px;
+	padding: 1.5rem 2rem;
 }
 
 .card h2 {
@@ -12,7 +13,7 @@
 }
 
 .card p {
-	font-size: 0.6em;
+	font-size: 0.64em;
 }
 #total {
 	background-color: #142a3c;
